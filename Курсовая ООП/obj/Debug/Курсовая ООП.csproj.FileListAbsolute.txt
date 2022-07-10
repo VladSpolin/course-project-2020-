@@ -1,0 +1,12 @@
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\bin\Debug\Курсовая ООП.exe.config
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\bin\Debug\Курсовая ООП.exe
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\bin\Debug\Курсовая ООП.pdb
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая ООП.csprojAssemblyReference.cache
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая_ООП.Form1.resources
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая_ООП.Form2.resources
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая_ООП.Properties.Resources.resources
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая ООП.csproj.GenerateResource.cache
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая ООП.csproj.CoreCompileInputs.cache
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая ООП.exe
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая ООП.pdb
+D:\working\Курсовые\Курсовая ООП\Курсовая ООП\obj\Debug\Курсовая_ООП.Fio.resources
